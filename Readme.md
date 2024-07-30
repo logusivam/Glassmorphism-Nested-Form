@@ -13,7 +13,7 @@ This project demonstrates how to create a form using the Glassmorphism design tr
 To use this project, simply download or clone the repository:
 
 ```bash
-git clone https://github.com/logusivam/glassmorphism-form.git
+git clone https://github.com/logusivam/Glassmorphism-Nested-Form.git
 ```
 
 Alternatively, you can directly copy the HTML and CSS files into your project directory.
