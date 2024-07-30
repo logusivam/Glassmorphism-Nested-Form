@@ -71,9 +71,13 @@ body
 
 .page h3
 {
-    color: #6f2a2a;
+    color: #f21212;
 }
 
+.h3
+{
+    font-weight: 800;
+}
 .header-title
 {
     text-transform: uppercase;
