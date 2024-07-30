@@ -19,7 +19,7 @@ p{
 
 p:not(:last-child)
 {
-    margin-bottom: 10.5em;
+    margin-bottom: 1.5em;
 }
 
 h3, h4
